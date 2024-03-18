@@ -12,7 +12,7 @@ My journey in information technology at citytech has led me to develop a passion
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic analysis with Wireshark | <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main)">Detection Lab</a>|
+| Network Traffic analysis with Wireshark | <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Detection Lab</a>|
 | Intrusion Detection with Snort        | SOC Automation Lab|
 | Security Automation with Shuffle SOAR      | SOC Automation Lab|
 
@@ -55,4 +55,4 @@ My journey in information technology at citytech has led me to develop a passion
 </div>
 
 ## Projects
-- <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main)">Traffic analysis Lab</a>
+- <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Traffic analysis Lab</a>
