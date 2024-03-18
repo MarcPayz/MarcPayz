@@ -1,17 +1,14 @@
 # Hello, I'm Marc
 <a href="https://www.linkedin.com/in/mpolidor/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a student at Citytech expected to graduate spring 2024 with a interest in the relm of cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in information technology at citytech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +17,7 @@ My journey in information technology at citytech has led me to develop a passion
 | Security Automation with Shuffle SOAR      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -43,7 +40,6 @@ My journey in information technology at citytech has led me to develop a passion
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/earner/earned/badge/1f2a10e6-8a0c-412c-8f2c-d573dbbb2bd0">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
