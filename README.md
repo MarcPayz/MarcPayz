@@ -28,7 +28,6 @@ My journey in information technology at citytech has led me to develop a passion
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -46,5 +45,3 @@ My journey in information technology at citytech has led me to develop a passion
 </a>
 </div>
 
-## Projects
-- <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Traffic analysis Lab</a>
