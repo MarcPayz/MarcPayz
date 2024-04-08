@@ -12,9 +12,9 @@ My journey in information technology at citytech has led me to develop a passion
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic analysis with Wireshark | <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Network analysis Lab</a>|
+| Network Traffic analysis with Wireshark | <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Network analysis Project</a>|
 | Threat Detection & Monitoring        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat detection Lab |
-| Security Automation with Shuffle SOAR      | Coming soon|
+| Security Information and Event Management       | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC automation Lab|
 
 ## Tools
 
@@ -28,6 +28,7 @@ My journey in information technology at citytech has led me to develop a passion
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E1E1E?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
