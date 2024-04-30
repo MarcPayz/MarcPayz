@@ -32,6 +32,16 @@ My journey in information technology at citytech has led me to develop a passion
     <img src="https://img.shields.io/badge/-Wazuh-1E1E1E?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+### IPS/IDS
+<div>
+    <img src="https://img.shields.io/badge/-Snort-4B8BBE?&style=for-the-badge&logo=Snort&logoColor=white" />
+</div>
+
+### Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-FF7E2D?&style=for-the-badge&logo=TheHive&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/earner/earned/badge/1f2a10e6-8a0c-412c-8f2c-d573dbbb2bd0">
