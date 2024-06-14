@@ -26,6 +26,16 @@ My journey in information technology at citytech has led me to develop a passion
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-1679A7?style=for-the-badge&logo=tools&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-1679A7?style=for-the-badge&logo=tools&logoColor=gray" />
+    <img src="https://img.shields.io/badge/-KAPE-1679A7?style=for-the-badge&logo=tools&logoColor=black" />
+    <img src="https://img.shields.io/badge/-FTK Imager-1679A7?style=for-the-badge&logo=tools&logoColor=red" />
+
+
+</div>
+
 
 ### SIEM
 <div>
