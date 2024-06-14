@@ -16,6 +16,7 @@ My journey in information technology at citytech has led me to develop a passion
 | Threat Detection & Monitoring        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat detection Lab |
 | Security Detection with SOAR (Shuffle)      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC automation Lab|
 | Phishing Detection and Investigation      | Coming Soon |
+| Digital Forensics Incident Response      | Coming Soon |
 
 ## Tools
 
