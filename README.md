@@ -6,7 +6,7 @@ I am a student at Citytech expected to graduate spring 2024 with a interest in t
 
 ## Objective
 
-My journey in information technology at citytech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information technology at CityTech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Tier 1 Security Analyst or specialize in Digital Forensics and Incident Response (DFIR).
 
 ## Skills
 
