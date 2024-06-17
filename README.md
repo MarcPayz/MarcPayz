@@ -1,9 +1,6 @@
 # Hello, I'm Marc
 <a href="https://www.linkedin.com/in/mpolidor/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a student at Citytech expected to graduate spring 2024 with a interest in the relm of cybersecurity.
-
 ## Objective
 
 My journey in information technology at CityTech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Tier 1 Security Analyst or specialize in Digital Forensics and Incident Response (DFIR).
