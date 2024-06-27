@@ -3,7 +3,7 @@
 
 ## Objective
 
-My journey in information technology at CityTech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Tier 1 Security Analyst or specialize in Digital Forensics and Incident Response (DFIR).
+My journey in information technology at CityTech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Tier 1 Security Analyst. Below, I will provide the skills I've acquired throughout my learning journey, as well as the associated labs/projects.
 
 ## Skills
 
