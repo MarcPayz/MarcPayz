@@ -52,6 +52,11 @@ My journey in information technology at CityTech has led me to develop a passion
 
 ## Certifications
 <div>
+
+<a href="https://www.credly.com/badges/fb8de288-e906-4a12-8f5f-2f40e2a9be98">
+  <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logo=YourLogo&logoColor=white" />
+</a>
+    
 <a href="https://www.credly.com/earner/earned/badge/1f2a10e6-8a0c-412c-8f2c-d573dbbb2bd0">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
