@@ -13,7 +13,7 @@ My journey in information technology at CityTech has led me to develop a passion
 | Threat Detection & Monitoring (Splunk & Snort)        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat detection Lab |
 | Security Detection with SOAR (Shuffle) & Wazuh      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC automation Lab|
 | Phishing Detection and Investigation      | <a href="https://github.com/MarcPayz/Phishing-Analysis-Lab"> Phishing Analysis Project |
-| Cyber Security Detection (Security Onion, pfsense, Suricata) |Coming Soon
+| Cyber Security Detection with Security Onion, pfsense and Suricata |Coming Soon
 
 ## Tools
 
@@ -30,7 +30,7 @@ My journey in information technology at CityTech has led me to develop a passion
     <img src="https://img.shields.io/badge/-Volatility-1679A7?style=for-the-badge&logo=tools&logoColor=gray" />
     <img src="https://img.shields.io/badge/-KAPE-1679A7?style=for-the-badge&logo=tools&logoColor=black" />
     <img src="https://img.shields.io/badge/-FTK Imager-1679A7?style=for-the-badge&logo=tools&logoColor=red" />
-
+    <img src="https://img.shields.io/badge/-Scalpel-4B4F54?&style=for-the-badge&logo=Scalpel&logoColor=white" />
 
 </div>
 
@@ -44,6 +44,14 @@ My journey in information technology at CityTech has led me to develop a passion
 ### Case Management
 <div>
     <img src="https://img.shields.io/badge/-TheHive-FF7E2D?&style=for-the-badge&logo=TheHive&logoColor=white" />
+</div>
+
+### Phishing Analysis
+<div>
+     <img src="https://img.shields.io/badge/-PhishTool-0078D4?&style=for-the-badge&logo=PhishTool&logoColor=white" />
+     <img src="https://img.shields.io/badge/-URL2PNG-004B49?&style=for-the-badge&logo=URL2PNG&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Wannabrowser-6C8EBF?&style=for-the-badge&logo=Wannabrowser&logoColor=white" />
+     <img src="https://img.shields.io/badge/-DomainTools-005C99?&style=for-the-badge&logo=DomainTools&logoColor=white" />
 </div>
 
 ## Certifications
