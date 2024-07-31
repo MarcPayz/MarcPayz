@@ -18,7 +18,7 @@ My journey in information technology at CityTech has led me to develop a passion
 ## Tools
 
 
-### Network
+### Network Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-4B8BBE?&style=for-the-badge&logo=Snort&logoColor=white" />
