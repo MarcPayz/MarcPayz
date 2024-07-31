@@ -13,7 +13,7 @@ My journey in information technology at CityTech has led me to develop a passion
 | Threat Detection & Monitoring (Splunk & Snort)        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat detection Lab |
 | Security Detection with SOAR (Shuffle) & Wazuh      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC automation Lab|
 | Phishing Detection and Investigation      | <a href="https://github.com/MarcPayz/Phishing-Analysis-Lab"> Phishing Analysis Project |
-| Setting up Firewall with pfSense |Coming Soon
+| Cyber Security Detection (Security Onion, pfsense, Suricata) |Coming Soon
 
 ## Tools
 
@@ -21,6 +21,7 @@ My journey in information technology at CityTech has led me to develop a passion
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-4B8BBE?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Digital Forensics
@@ -40,11 +41,6 @@ My journey in information technology at CityTech has led me to develop a passion
     <img src="https://img.shields.io/badge/-Wazuh-1E1E1E?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-### IPS/IDS
-<div>
-    <img src="https://img.shields.io/badge/-Snort-4B8BBE?&style=for-the-badge&logo=Snort&logoColor=white" />
-</div>
-
 ### Case Management
 <div>
     <img src="https://img.shields.io/badge/-TheHive-FF7E2D?&style=for-the-badge&logo=TheHive&logoColor=white" />
@@ -54,7 +50,7 @@ My journey in information technology at CityTech has led me to develop a passion
 <div>
 
 <a href="https://www.credly.com/badges/fb8de288-e906-4a12-8f5f-2f40e2a9be98">
-  <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logo=YourLogo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-B%20T%20L%201-0000FF?&style=for-the-badge&logo=YourLogo&logoColor=white" />
 </a>
     
 <a href="https://www.credly.com/earner/earned/badge/1f2a10e6-8a0c-412c-8f2c-d573dbbb2bd0">
