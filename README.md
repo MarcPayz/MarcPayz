@@ -9,9 +9,9 @@ My journey in information technology at CityTech has led me to develop a passion
 
 | Skill                                         | Associated Project/Lab         |
 |-----------------------------------------------|----------------------------|
-| Network PCAP analysis with Wireshark | <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Network analysis Project</a>|
-| Threat Detection & Monitoring (Splunk & Snort)        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat detection Lab |
-| Security Detection with SOAR (Shuffle) & Wazuh      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC automation Lab|
+| Network PCAP analysis with Wireshark | <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Lab/tree/main">Network Analysis Project</a>|
+| Threat Detection & Monitoring (Splunk & Snort)        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat Detection Lab |
+| Security Detection with SOAR (Shuffle) & Wazuh      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC Automation Lab|
 | Phishing Detection and Investigation | <a href="https://github.com/MarcPayz/Phishing-Analysis-Lab"> Phishing Analysis Project |
 | Cyber Security Detection (Security Onion, pfsense and Suricata) | <a href="https://github.com/MarcPayz/Network-Monitoring-Lab"> Network Monitoring Lab|
 
