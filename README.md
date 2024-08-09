@@ -21,16 +21,19 @@ My journey in information technology at CityTech has led me to develop a passion
 ### Network 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-4B8BBE?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EE1C25?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfSense&logoColor=white" />
+
 </div>
 
 ### Digital Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Autopsy-1679A7?style=for-the-badge&logo=tools&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-1679A7?style=for-the-badge&logo=tools&logoColor=gray" />
-    <img src="https://img.shields.io/badge/-KAPE-1679A7?style=for-the-badge&logo=tools&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Autopsy-0056A4?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-8B0000?&style=for-the-badge&logo=Volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kape-4B0082?&style=for-the-badge&logo=Kape&logoColor=white" />
     <img src="https://img.shields.io/badge/-FTK Imager-1679A7?style=for-the-badge&logo=tools&logoColor=red" />
-    <img src="https://img.shields.io/badge/-Scalpel-4B4F54?&style=for-the-badge&logo=Scalpel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scalpel-4B9CD3?&style=for-the-badge&logo=Scalpel&logoColor=white" />
+
 
 </div>
 
@@ -38,12 +41,16 @@ My journey in information technology at CityTech has led me to develop a passion
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-1E1E1E?style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5A67D8?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Onion-8C1A1A?&style=for-the-badge&logo=SecurityOnion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" />
+
+
 </div>
 
 ### Case Management
 <div>
-    <img src="https://img.shields.io/badge/-TheHive-FF7E2D?&style=for-the-badge&logo=TheHive&logoColor=white" />
+     <img src="https://img.shields.io/badge/-TheHive5-FFFF00?&style=for-the-badge&logo=TheHive&logoColor=white" />
 </div>
 
 ### Phishing Analysis
