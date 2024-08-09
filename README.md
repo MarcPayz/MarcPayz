@@ -13,7 +13,7 @@ My journey in information technology at CityTech has led me to develop a passion
 | Threat Detection & Monitoring (Splunk & Snort)        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat Detection Lab |
 | Security Detection with SOAR (Shuffle) & Wazuh      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC Automation Lab|
 | Phishing Detection and Investigation | <a href="https://github.com/MarcPayz/Phishing-Analysis-Lab"> Phishing Analysis Project |
-| Cyber Security Detection (Security Onion, pfsense and Suricata) | <a href="https://github.com/MarcPayz/Network-Monitoring-Lab"> Network Monitoring Lab|
+| Cyber Security Detection (Security Onion, pfsense and Suricata) | <a href="https://github.com/MarcPayz/Network-Monitoring-Lab"> (In Progress) |
 
 ## Tools
 
