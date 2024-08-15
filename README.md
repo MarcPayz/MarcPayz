@@ -42,8 +42,6 @@ My journey in information technology at CityTech has led me to develop a passion
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5A67D8?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%20Onion-8C1A1A?&style=for-the-badge&logo=SecurityOnion&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" />
 
 
 </div>
