@@ -34,7 +34,9 @@ My journey in information technology at CityTech has led me to develop a passion
     <img src="https://img.shields.io/badge/-FTK Imager-1679A7?style=for-the-badge&logo=tools&logoColor=red" />
     <img src="https://img.shields.io/badge/-Scalpel-4B9CD3?&style=for-the-badge&logo=Scalpel&logoColor=white" />
 
-
+### EDR
+<div>
+<img src="https://img.shields.io/badge/-LimaCharlie-1679A7?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 
