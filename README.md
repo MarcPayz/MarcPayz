@@ -13,7 +13,7 @@ My journey in information technology at CityTech has led me to develop a passion
 | Threat detection & monitoring (Splunk & Snort)        | <a href="https://github.com/MarcPayz/Detection-Monitoring-Lab"> Threat Detection Lab |
 | Security detection implementing SOAR (Shuffle) & Wazuh      | <a href="https://github.com/MarcPayz/SOC-Detection-Lab"> SOC Automation Lab|
 | Phishing detection and investigation | <a href="https://github.com/MarcPayz/Phishing-Analysis-Lab"> Phishing Analysis Project |
-| Writing detection rules in LimaCharlie for SOAR/EDR with Pfsense | <a href="https://github.com/MarcPayz/Network-Monitoring-Lab"> (In Progress) |
+| Writing detection rules in LimaCharlie for SOAR/EDR | <a href="https://github.com/MarcPayz/Network-Monitoring-Lab"> (In Progress) |
 
 ## Tools
 
