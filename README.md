@@ -20,7 +20,7 @@ My journey in information technology at CityTech has led me to develop a passion
 
 ### Network 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <a href="https://github.com/MarcPayz/Network-Traffic-Analysis-Project/tree/main)"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Snort-EE1C25?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfSense&logoColor=white" />
 
