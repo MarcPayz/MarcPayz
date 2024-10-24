@@ -39,6 +39,12 @@ My journey in information technology at CityTech has led me to develop a passion
 <img src="https://img.shields.io/badge/-LimaCharlie-1679A7?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
+### SOAR
+<div>
+  <img src="https://img.shields.io/badge/-Tines-D3A4F7?&style=for-the-badge&logo=Tines&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shuffle_Automation-FFA500?&style=for-the-badge&logo=Shuffle&logoColor=white" />
+</div>
+
 
 ### SIEM
 <div>
