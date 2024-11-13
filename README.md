@@ -18,12 +18,14 @@ My journey in information technology at CityTech has led me to develop a passion
 ## Tools
 
 
-### Network 
+### Network Monitoring
 <div>
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EE1C25?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfSense&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Snort-EE1C25?&style=for-the-badge&logo=Snort&logoColor=white" />
+   <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfSense&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OSSEC-CC0000?style=for-the-badge&logo=OSSEC&logoColor=white" />
 
+   
 </div>
 
 ### Digital Forensics
@@ -57,6 +59,11 @@ My journey in information technology at CityTech has led me to develop a passion
 ### Case Management
 <div>
      <img src="https://img.shields.io/badge/-TheHive5-FFFF00?&style=for-the-badge&logo=TheHive&logoColor=white" />
+</div>
+
+### Vulnerability Management
+<div>
+        <img src="https://img.shields.io/badge/-Nessus-00A1E0?style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 ### Phishing Analysis
